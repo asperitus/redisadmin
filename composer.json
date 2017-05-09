@@ -13,7 +13,11 @@
         }
     ],
     "require": {
-        "predis/predis": "1.0.3"
+        "predis/predis": "1.0.3",
+        "ext-mbstring": "*"
+    },
+    "config":{
+        "secure-http":false
     },
     "minimum-stability": "stable",
     "target-dir": "ErikDubbelboer/phpRedisAdmin"    

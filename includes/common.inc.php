@@ -55,8 +55,8 @@ $server            = $config['servers'][$i];
 $server['id']      = $i;
 $server['charset'] = isset($server['charset']) && $server['charset'] ? $server['charset'] : false;
 
-
-mb_internal_encoding('utf-8');
+//
+//mb_internal_encoding('utf-8');
 
 
 if (isset($login, $login['servers'])) {
