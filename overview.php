@@ -93,7 +93,7 @@ require 'includes/header.inc.php';
 <?php } ?>
 
 <p class="clear">
-<a href="https://github.com/ErikDubbelboer/phpRedisAdmin" target="_blank">phpRedisAdmin on GitHub</a>
+<a href="https://github.com/ErikDubbelboer/phpRedisAdmin" target="_blank">Redis Admin on GitHub</a>
 </p>
 
 <p>
